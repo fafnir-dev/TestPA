@@ -1,0 +1,6 @@
+# IntellijIdea files
+*.iml
+.idea
+.venv
+testDB.sqlite3
+out
